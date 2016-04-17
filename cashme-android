@@ -1,0 +1,8 @@
+tree 4b825dc642cb6eb9a060e54bf8d69288fbee4904
+parent a2ff4d40608f2fa19da09afa24339787429e6bae
+author Zach <zfreeman@smu.edu> 1460864921 -0500
+committer Zach <zfreeman@smu.edu> 1460864921 -0500
+
+Revert "AI-2.0 <Zachary@Zach-Asus Create ide.general.xml, git.xml, Default.xml, project.default.xml, diff.xml, laf.xml, other.xml, jdk.table.xml, androidStudioFirstRun.xml, file.template.settings.xml, find.xml, ui.lnf.xml, web-browsers.xml, keymap.xml, editor.codeinsight.xml"
+
+This reverts commit a2ff4d40608f2fa19da09afa24339787429e6bae.
